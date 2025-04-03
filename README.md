@@ -1,2 +1,3 @@
 # Calculator with menu 🧮
-![image](https://github.com/user-attachments/assets/4b427465-6632-42a8-b474-b96129e3b31e)
+![image](https://github.com/user-attachments/assets/ba3b6b52-99d7-4802-a848-15aca854b49e)
+
